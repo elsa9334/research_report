@@ -1,0 +1,153 @@
+points:
+  - start pose:
+      x: 0.0499226
+      y: -0.384804
+      theta: -0.785398
+    end pose:
+      x: 0.0559353
+      y: -0.398001
+      theta: 3.64568
+  - start pose:
+      x: 0.0485579
+      y: -0.385805
+      theta: -0.785398
+    end pose:
+      x: 0.0546337
+      y: -0.399667
+      theta: 3.70027
+  - start pose:
+      x: 0.0491511
+      y: -0.385727
+      theta: -0.785398
+    end pose:
+      x: 0.055586
+      y: -0.399149
+      theta: 3.68679
+  - start pose:
+      x: 0.0488999
+      y: -0.38547
+      theta: -0.785398
+    end pose:
+      x: 0.0553288
+      y: -0.398216
+      theta: 3.75096
+  - start pose:
+      x: 0.0483068
+      y: -0.385548
+      theta: -0.785398
+    end pose:
+      x: 0.0548082
+      y: -0.398302
+      theta: 3.70797
+  - start pose:
+      x: 0.0485651
+      y: -0.385128
+      theta: -0.785398
+    end pose:
+      x: 0.0548518
+      y: -0.398624
+      theta: 3.70463
+  - start pose:
+      x: 0.0505995
+      y: -0.384811
+      theta: -0.785398
+    end pose:
+      x: 0.0569978
+      y: -0.396502
+      theta: 3.80096
+  - start pose:
+      x: 0.049071
+      y: -0.385303
+      theta: -0.785398
+    end pose:
+      x: 0.0554793
+      y: -0.398189
+      theta: 3.71416
+  - start pose:
+      x: 0.0480556
+      y: -0.385292
+      theta: -0.785398
+    end pose:
+      x: 0.0547607
+      y: -0.3981
+      theta: 3.72079
+  - start pose:
+      x: 0.0478846
+      y: -0.385459
+      theta: -0.785398
+    end pose:
+      x: 0.0545796
+      y: -0.398865
+      theta: 3.64827
+  - start pose:
+      x: 0.0480502
+      y: -0.385799
+      theta: -0.785398
+    end pose:
+      x: 0.0546814
+      y: -0.399046
+      theta: 3.68332
+  - start pose:
+      x: 0.0503573
+      y: -0.383708
+      theta: -0.785398
+    end pose:
+      x: 0.0569843
+      y: -0.396641
+      theta: 3.71839
+  - start pose:
+      x: 0.0506067
+      y: -0.384134
+      theta: -0.785398
+    end pose:
+      x: 0.0571022
+      y: -0.397194
+      theta: 3.73252
+  - start pose:
+      x: 0.0479678
+      y: -0.384633
+      theta: -0.741947
+    end pose:
+      x: 0.0555137
+      y: -0.397617
+      theta: 3.77844
+  - start pose:
+      x: 0.0509415
+      y: -0.384476
+      theta: -0.785398
+    end pose:
+      x: 0.0573948
+      y: -0.397294
+      theta: 3.77382
+  - start pose:
+      x: 0.049242
+      y: -0.385135
+      theta: -0.785398
+    end pose:
+      x: 0.0559641
+      y: -0.398584
+      theta: 3.6846
+  - start pose:
+      x: 0.0481465
+      y: -0.3847
+      theta: -0.785398
+    end pose:
+      x: 0.0548354
+      y: -0.398169
+      theta: 3.68911
+  - start pose:
+      x: 0.0481357
+      y: -0.385716
+      theta: -0.785398
+    end pose:
+      x: 0.054645
+      y: -0.398533
+      theta: 3.79398
+  - start pose:
+      x: 0.0502754
+      y: -0.383454
+      theta: -0.785398
+    end pose:
+      x: 0.0572155
+      y: -0.396032
+      theta: 3.67542

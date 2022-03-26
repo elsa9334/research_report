@@ -1,0 +1,209 @@
+points:
+  - start pose:
+      x: 0.0482019
+      y: -0.407646
+      theta: 0.291457
+    end pose:
+      x: 0.0548934
+      y: -0.406208
+      theta: -1.02681
+  - start pose:
+      x: 0.0486481
+      y: -0.40674
+      theta: 0.286051
+    end pose:
+      x: 0.0555172
+      y: -0.405132
+      theta: -1.01538
+  - start pose:
+      x: 0.0485255
+      y: -0.406334
+      theta: 0.32175
+    end pose:
+      x: 0.0556159
+      y: -0.404157
+      theta: -0.915649
+  - start pose:
+      x: 0.0483618
+      y: -0.407399
+      theta: 0.321751
+    end pose:
+      x: 0.0553843
+      y: -0.405573
+      theta: -0.969265
+  - start pose:
+      x: 0.0478097
+      y: -0.406705
+      theta: 0.298498
+    end pose:
+      x: 0.0549954
+      y: -0.404927
+      theta: -1.0044
+  - start pose:
+      x: 0.0485694
+      y: -0.406642
+      theta: 0.305879
+    end pose:
+      x: 0.0555626
+      y: -0.404801
+      theta: -1.01628
+  - start pose:
+      x: 0.048535
+      y: -0.406703
+      theta: 0.302884
+    end pose:
+      x: 0.0557328
+      y: -0.404783
+      theta: -0.980055
+  - start pose:
+      x: 0.0481706
+      y: -0.40628
+      theta: 0.32175
+    end pose:
+      x: 0.0553305
+      y: -0.404246
+      theta: -0.962385
+  - start pose:
+      x: 0.0476975
+      y: -0.406207
+      theta: 0.32175
+    end pose:
+      x: 0.0548165
+      y: -0.404131
+      theta: -0.994997
+  - start pose:
+      x: 0.0481706
+      y: -0.40628
+      theta: 0.32175
+    end pose:
+      x: 0.0552968
+      y: -0.404214
+      theta: -0.962974
+  - start pose:
+      x: 0.0468403
+      y: -0.406116
+      theta: 0.302884
+    end pose:
+      x: 0.0538621
+      y: -0.40424
+      theta: -1.05608
+  - start pose:
+      x: 0.0489258
+      y: -0.40688
+      theta: 0.32175
+    end pose:
+      x: 0.0560589
+      y: -0.404848
+      theta: -0.953752
+  - start pose:
+      x: 0.0487924
+      y: -0.406321
+      theta: 0.244979
+    end pose:
+      x: 0.0559844
+      y: -0.404746
+      theta: -1.08562
+  - start pose:
+      x: 0.0484019
+      y: -0.40591
+      theta: 0.302884
+    end pose:
+      x: 0.0555486
+      y: -0.404008
+      theta: -1.04047
+  - start pose:
+      x: 0.0471752
+      y: -0.405982
+      theta: 0.321751
+    end pose:
+      x: 0.054321
+      y: -0.403915
+      theta: -0.966476
+  - start pose:
+      x: 0.0483549
+      y: -0.406725
+      theta: 0.305879
+    end pose:
+      x: 0.0555534
+      y: -0.404847
+      theta: -1.02208
+  - start pose:
+      x: 0.048535
+      y: -0.406703
+      theta: 0.302884
+    end pose:
+      x: 0.0556675
+      y: -0.404585
+      theta: -0.994937
+  - start pose:
+      x: 0.0488531
+      y: -0.407353
+      theta: 0.32175
+    end pose:
+      x: 0.0560726
+      y: -0.405076
+      theta: -0.920188
+  - start pose:
+      x: 0.0483718
+      y: -0.406931
+      theta: 0.302884
+    end pose:
+      x: 0.0555657
+      y: -0.404871
+      theta: -0.97689
+  - start pose:
+      x: 0.0484199
+      y: -0.406706
+      theta: 0.321751
+    end pose:
+      x: 0.0556366
+      y: -0.404536
+      theta: -0.920969
+  - start pose:
+      x: 0.0485499
+      y: -0.40479
+      theta: 0.302885
+    end pose:
+      x: 0.0557931
+      y: -0.402779
+      theta: -1.02116
+  - start pose:
+      x: 0.0481286
+      y: -0.40545
+      theta: 0.321751
+    end pose:
+      x: 0.0555956
+      y: -0.403208
+      theta: -0.910833
+  - start pose:
+      x: 0.0484763
+      y: -0.406182
+      theta: 0.32175
+    end pose:
+      x: 0.056192
+      y: -0.403912
+      theta: -0.932217
+  - start pose:
+      x: 0.0486637
+      y: -0.406065
+      theta: 0.321751
+    end pose:
+      x: 0.0561413
+      y: -0.403725
+      theta: -0.955424
+  - start pose:
+      x: 0.0485746
+      y: -0.406487
+      theta: 0.321749
+    end pose:
+      x: 0.0562141
+      y: -0.403901
+      theta: -0.914945
+  - start pose:
+      x: 0.0467521
+      y: -0.405858
+      theta: 0.302885
+    end pose:
+      x: 0.0542622
+      y: -0.403626
+      theta: -1.03099
