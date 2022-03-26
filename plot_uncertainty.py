@@ -1,12 +1,18 @@
+from statistics import mean
 from turtle import width
 import cv2
 import yaml
 import numpy as np
 import matplotlib.pyplot as plt
+import math
 
+
+angles_mat = []
+x_mat = []
+y_mat = []
 plt.rcParams.update({'font.size': 15})
 
-filename = '../template_data/mb_side_dec4_rightfinger.txt'
+filename = '../template_data/sb_side_dec4.txt'
 
 
 with open(filename, 'r') as stream:
@@ -32,7 +38,7 @@ plt.ylim(-0.02, 0.02)                    # Set y-axis range
 
 # A coordinate frame defined by its origin & unit vectors
 origin = np.array([0, 0])
-xhat = np.array([0.01, 0])
+xhat = np.array([-0.01, 0])
 yhat = np.array([0, -0.01])
 
 # Plotting 2 unit vectors
@@ -54,10 +60,21 @@ for idx, point in enumerate(data['points']):
     plt.arrow(*origin_prime, *x_prime, width=0.0001, head_width=0.001, color='r', alpha=0.1)
     plt.arrow(*origin_prime, *y_prime, width=0.0001, head_width=0.001, color='g', alpha=0.1)
 
-x_std = np.std(x_prime)
-y_std = np.std(y_prime)
-print(x_std*1000)
-print(y_std*1000)
+    # Standard Dev and other statistics
+    angles = np.arctan2(R[1,0], R[0,0])
+    #if angles>0:
+    #    angles = angles*-1
+    angles_mat = np.append(angles_mat, math.degrees(angles))
+    x_mat = np.append(x_mat, origin_prime[0])
+    y_mat = np.append(y_mat, origin_prime[1])
+
+print('x st dev: (mm)',np.std(x_mat)*1000)
+print('x min, max, mean (mm):', min(x_mat),max(x_mat),mean(x_mat))
+print('y st dev: (mm)',np.std(y_mat)*1000)
+print('y min, max, mean (mm):', min(y_mat),max(y_mat),mean(y_mat))
+
+print('angle st dev: (deg',np.std(angles_mat))
+print('angle min, max, mean (deg):', min(angles_mat),max(angles_mat),mean(angles_mat))
 
 plt.xlabel("x (m)")
 plt.ylabel("y (m)")
